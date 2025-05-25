@@ -2,7 +2,7 @@
 # 🧠 Imaginify - AI-Powered Image Transformation SaaS Platform
 
 <p align="center">
-  <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/daf9e91b-6342-4e9a-9361-8dc2bd01ce64" alt="Project Banner" />
+  <img src="banner.png" alt="Project Banner" />
 </p>
 
 <div align="center">
