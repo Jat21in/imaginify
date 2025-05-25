@@ -2,7 +2,7 @@
 # 🧠 Imaginify - AI-Powered Image Transformation SaaS Platform
 
 <p align="center">
-  <img src="banner.png" alt="Project Banner" />
+  <img src="public\assets\images\banner.png" alt="Project Banner" />
 </p>
 
 <div align="center">
